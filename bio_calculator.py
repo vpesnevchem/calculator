@@ -7,7 +7,7 @@ st.set_page_config(
     layout="centered"
 )
 
-# Стилизация - ИЗМЕНЕНО: добавлен темный стиль для результатов
+# Стилизация результатов
 st.markdown("""
 <style>
     .header { color: #1e3a8a; font-weight: 700; }
